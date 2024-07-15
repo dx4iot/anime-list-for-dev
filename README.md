@@ -1,5 +1,6 @@
 # anime-list-for-dev
 
+![levi](https://github.com/dx4iot/anime-list-for-dev/blob/main/gif/levi-rage-mode.gif)
 ## 🎬 Anime List
 
 | Anime Title                | Genre             | Description                                                                                     |
