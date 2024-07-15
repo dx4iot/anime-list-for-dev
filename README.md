@@ -1,4 +1,7 @@
-# anime-list-for-dev
+# 😺 Animes for Developer
+
+Welcome to **Animes for Developer**! This project is a curated list of anime recommendations tailored specifically for developers.
+
 <img src="https://github.com/dx4iot/anime-list-for-dev/blob/main/gif/levi-rage-mode.gif" width="100%" height="100%"/>
 
 ## 🎬 Anime List
